@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://twitter.com/kari_triescode"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Karina Huizar
           </a>{" "}
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/karinahuizar/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
